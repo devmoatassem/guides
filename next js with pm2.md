@@ -1,0 +1,1 @@
+pm2 start npm --name "2tag-app" -- start
